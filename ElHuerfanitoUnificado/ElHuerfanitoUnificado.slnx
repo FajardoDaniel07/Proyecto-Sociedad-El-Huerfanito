@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Conector/Conector.csproj" Id="e97c2f25-1aad-46a0-9167-18076b5b3270" />
+  <Project Path="../ElHUerfanitoEscritorio/ElHUerfanitoEscritorio.csproj" Id="8d89d9fc-7ab2-4a66-b3c2-1fdef3f93d98" />
+  <Project Path="../HuerfanitoAPI/HuerfanitoAPI.csproj" Id="6b415561-4390-4327-aeaa-81c689589580" />
+  <Project Path="../HuerfanitoWeb/HuerfanitoWeb.csproj" Id="c7943fb3-2946-4e3c-a57e-054449d11676" />
+</Solution>
